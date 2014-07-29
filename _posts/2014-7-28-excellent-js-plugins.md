@@ -8,7 +8,8 @@ tags: [html, js, css]
 
 **Geilivable websites by accellent js plugins**
 
-1. [All plugins](http://www.thepetedesign.com/#plugins)
+1. [All plugins ](http://www.thepetedesign.com/#plugins)
+
 
 2. [http://www.thepetedesign.com/flatui-startup]()
 
